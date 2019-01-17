@@ -1,0 +1,111 @@
+body{
+	color: #FFFFFF;
+	padding-top:10px;
+	text-align:center;
+	background-color: #fff;
+}
+html{
+	scroll-behavior: smooth;
+}
+.navbar-brand{
+	font-family: 'Raleway';
+	font-size: 23px;
+}
+.navbar-nav{
+	font-family: 'Raleway';
+	font-size: 18px;
+}
+.full_width_header{
+	background:url('img/supplies.jpg');
+	background-size:100% 140%, cover;
+	background-repeat: no-repeat;
+	transform: translateY(20px);
+	background-position: cover;
+	border-top-width: 100px;
+	width: 100%;
+	height: 60%;
+}
+.jumbotron{
+	background-color: transparent;
+	border-spacing: 20px;
+}
+.jumbotron h1{
+	font-family: 'Caveat Brush';
+	font-size: 120px;
+	padding-top: 170px;
+	padding-bottom: 180px;
+	text-shadow: 3px 3px 3px #000000;
+	color: #fff;
+}
+.welcome_desc h1{
+	text-align: center;
+	transition: .25s;
+	padding-top: 50px;
+	font-stretch: 20%;
+	font-size: 40px;
+	padding-bottom: 30px;
+	color: black;
+	font-family: 'Corben';
+}
+.welcome_desc h2{
+	text-align: center;
+	transition: .25s;
+	font-size: 25px;
+	padding-bottom: 70px;
+	color: black;
+	font-family: 'Corben';
+}
+.background_gray{
+	background-color:#F1F1F1;
+}
+.more_padding{
+	padding: 20px 0;
+}
+.gallery_bg{
+	background:url('img/marble_art.jpg');
+	background-size:190% 110%, cover;
+	background-repeat: no-repeat;
+	background-position: cover;
+	text-align: center;
+	transition: .25s;
+	padding-top: 30px;
+	padding-bottom: 25px;
+	color: white;
+	text-shadow: 5px 3px 4px #000000;
+	font-size: 20px;
+}
+.about_pg h1{
+	text-align: center;
+	font-family: 'Cantata One';
+	padding-top: 35px;
+	color: black;
+}
+.about_pg h2{
+	text-align: center;
+	line-height: 40px;
+	font-family: 'Cantata One';
+	color: black;
+	font-size: 19px;
+}
+.about_pg h3{
+	text-align: center;
+	line-height: 0px;
+	font-family: 'Cantata One';
+	color: black;
+	font-size: 17px;
+}
+.about_pg h4{
+	text-align: center;
+	line-height: 66px;
+	font-family: 'Cantata One';
+	color: black;
+	font-size: 30px;
+}
+.about_pg h5{
+	text-align: left;
+	line-height: 33px;
+	color: black;
+	padding-bottom: 40px;
+	font-size: 18px;
+	font-family: 'PT Serif';
+}
